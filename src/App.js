@@ -4,6 +4,7 @@ import Home from './component/Home';
 import Search from './component/Search';
 
 function App() {
+
   return (
     <Router>
       <Routes>
